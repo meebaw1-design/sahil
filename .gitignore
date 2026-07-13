@@ -1,0 +1,7 @@
+﻿database/api_settings.json
+.env
+*.env
+venv/
+__pycache__/
+*.pyc
+
